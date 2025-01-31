@@ -53,7 +53,11 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux Servers"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="40" alt="ubuntu"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="40" alt="docker"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="docker"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="40" alt="Windows Server"  />
   <img width="12" />
@@ -62,15 +66,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker"  />
   <img width="12" />
   
+  
 </div>
 
 <hr>
 
 
-- 🔭 Currently working on software solutions for supermarkets.
-- 🌱 Currently learning Systems Analysis and Development at Anhembi Morumbi - Athon, Sorocaba - São Paulo
-- 🚀 Fixing softwares and creating bugs since 2015
-- ⚡ Fun fact: I've never been hacked by Mr Robot 😎
+🔭 Currently working on software solutions for supermarkets.<br><br>
+🌱 Currently learning Systems Analysis and Development at Anhembi Morumbi - Athon, Sorocaba - São Paulo<br><br>
+🚀 Fixing softwares and creating bugs since 2015<br><br>
+⚡ Fun fact: I've never been hacked by Mr Robot 😎
 
 
 

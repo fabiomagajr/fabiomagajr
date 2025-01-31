@@ -79,7 +79,7 @@
 🔭 Currently working on software solutions for supermarkets.<br><br>
 🌱 Currently learning Systems Analysis and Development at Anhembi Morumbi - Athon, Sorocaba - São Paulo<br><br>
 🚀 Fixing softwares and creating bugs since 2015<br><br>
-⚡ Fun fact: I've never been hacked by Mr Robot 😎
+⚡ Never been hacked by Mr Robot 😎
 
 
 

@@ -59,14 +59,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker"  />
+  <img width="12" />
   
 </div>
 
 <hr>
 
 
-- 🔭 I’m currently working on a solution for preventing losses in supermarkets.
-- 🌱 I’m currently learning systems analysis and development at Anhembi Morumbi, Sorocaba - São Paulo
+- 🔭 Currently working on software solutions for supermarkets.
+- 🌱 Currently learning Systems Analysis and Development at Anhembi Morumbi - Athon, Sorocaba - São Paulo
 - 🚀 Fixing softwares and creating bugs since 2015
 - ⚡ Fun fact: I've never been hacked by Mr Robot 😎
 

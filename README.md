@@ -1,5 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiomagajr&theme=tokyonight&show_icons=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiomagajr&layout=compact&theme=tokyonight)
 <h1> Hello there! 👋</h1>
 <p>My name is Fabio Magalhães<br>From Brazil <br>I really love technology and i'm always improving my knowledge.</p>
 

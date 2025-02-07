@@ -1,7 +1,11 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiomagajr&theme=tokyonight&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiomagajr&layout=compact&theme=tokyonight)
 <h1> Hello there! 👋</h1>
 <p>My name is Fabio Magalhães<br>From Brazil <br>I really love technology and i'm always improving my knowledge.</p>
+
+###
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiomagajr&theme=tokyonight&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiomagajr&layout=compact&theme=tokyonight) 
+
 
 ###
 <!--
@@ -30,14 +34,14 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"  title="Python"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="node logo"  title="Node"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnet-core logo"  title=".NET Core"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"  title="Python"/>  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="c# logo"  title="Csharp"/>
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnet-core logo"  title=".NET Core"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="node logo"  title="Node"/>
+  <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  title="Java"/>
   <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  title="PostgreSQL"/>

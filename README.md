@@ -3,8 +3,8 @@
 
 ###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiomagajr&theme=tokyonight&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiomagajr&layout=compact&theme=tokyonight) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiomagajr&theme=aura&show_icons=true&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiomagajr&layout=donut&theme=aura&hide=html,css) 
 
 
 ###

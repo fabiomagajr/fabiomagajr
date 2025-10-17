@@ -24,8 +24,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  title="React / React Native"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  title="Electron"/>
-  <img width="12" />
+ 
 </div>
 <h2 align="left">Back-End Knowledge and Learning </h2>
 

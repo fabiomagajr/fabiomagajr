@@ -1,4 +1,4 @@
-<h1> Hi, my dear dev friends! 👋</h1>
+<h1> Hi, dev friends! 👋</h1>
 <p>My name is Fabio Magalhães<br>From Brazil <br>I really love technology and i'm always improving my knowledge.</p>
 
 ###

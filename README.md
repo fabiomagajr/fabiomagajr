@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Software+Automator+%40+Ford+Brasil+%F0%9F%9A%97;Django+%26+Nextjs+Developer+%E2%9A%A1;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Software+Automator+%40+Ford+Brasil+%F0%9F%9A%97;Full+Stack+Developer+%F0%9F%9A%80;Django+%26+React+Developer+%E2%9A%A1;I.T.+Analyst+%F0%9F%92%BB;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -22,7 +22,7 @@ class FabioMagalhaes:
         self.location = "São Paulo, Brazil 🇧🇷"
         self.role = "Developer & Researcher @ Ford Motor Company 🚗"
         self.education = "Systems Analysis and Development Graduate"
-        self.tech_stack = ["Django", "Nextjs", "Python", "JavaScript"]
+        self.tech_stack = ["Django", "React", "Python", "JavaScript"]
         self.passion = "Technology & Innovation"
         self.status = "Fixing software and creating bugs since 2015"
         self.security_level = "Never been hacked by Mr Robot 😎"

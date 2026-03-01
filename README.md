@@ -80,17 +80,14 @@ me.say_hi()
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiomagajr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fabiomagajr&theme=tokyonight&hide_border=true&background=0d1117"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=fabiomagajr&theme=tokyonight&hide_border=true&background=0d1117"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiomagajr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css,Jupyter%20Notebook,tsql&langs_count=8" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fabiomagajr&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff" />
@@ -101,8 +98,10 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fabiomagajr&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-trophies.vercel.app/?username=fabiomagajr&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </div>
+
+
 
 ---
 
